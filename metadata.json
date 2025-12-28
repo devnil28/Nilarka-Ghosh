@@ -1,0 +1,7 @@
+{
+  "name": "Iron Mind – High-Tech Fitness Studio",
+  "description": "An elite, tech-driven fitness studio landing page featuring parallax effects, dark mode aesthetics, and an integrated AI fitness assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
